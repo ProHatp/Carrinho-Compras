@@ -1,5 +1,5 @@
 
-# Bem vindo ao MEME GENERATOR
+# Bem vindo ao Carrinho de compras
 
 Olá esse e mais um projeto feito por mim do curso da  **Trybe**. Projetinho de adicionar itens no carri
 ,nho de compras cemover e somar todos os itens adicionados.
