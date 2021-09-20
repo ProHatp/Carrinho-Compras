@@ -1,0 +1,58 @@
+.imagem-carrinho {
+    padding: 10px;
+    width: 30%;
+}
+
+#local-valor-total {
+    display: flex;
+}
+
+#valorFinal {
+    margin: 0px 0px 0px 7px;
+    padding: 10px 0px 0px 0px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+.separdor {
+    margin: 10px 0px 0px 0px;
+}
+
+.background {
+    background-color: rgb(9, 7, 43);
+    margin: 20px 0 0 0;
+}
+
+.texto {
+    color: white;
+    margin: 10px 0 0 0;
+}
+
+#local-valor-total {
+    margin: 0px 0px 0px 20px;
+    padding: 30px 5px 20px 5px;
+}
+
+.itens-adicionados {
+    display: flex;
+}
+
+.itens {
+    color: white;
+    display: inline-block;
+    padding: 10px 0px 0px 0px;
+    width: 30%;
+    flex-grow: 1; 
+}
+
+.btn {
+    margin: 10px;
+}
