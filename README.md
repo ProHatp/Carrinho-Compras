@@ -1,7 +1,7 @@
 
 # Bem vindo ao Carrinho de compras
 
-Olá esse e mais um projeto feito por mim do curso da  **Trybe**. Projetinho de adicionar itens no carrinho de compras cemover e somar todos os itens adicionados.
+Olá esse é mais um projeto feito por mim do curso da  **Trybe**. Projetinho de adicionar itens no carrinho de compras se mover e somar todos os itens adicionados.
 
 ## Exemplo de uso
 
